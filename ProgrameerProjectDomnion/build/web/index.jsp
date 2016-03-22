@@ -14,7 +14,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <div class="main">
+        <div id="container">
             <div class="logo"><img src="assets/images/logo.png" alt="logo" title="logo"/></div>
             <div class="registreren"><img src="assets/images/registrerenbutton.png" alt="registratiebutton" title="registratiebutton"/></div>
             <div class="login"><img src="assets/images/login-button.png" alt="login-button" title="login-button"/></div>
