@@ -13,6 +13,9 @@ public class Speler {
     private String naam;
     private int actiePunten;
     private int koopPunten;
+    private Deck foldDeck;
+    private Deck drawDeck;
+    
     
     
     public Speler(String naam)
@@ -20,6 +23,9 @@ public class Speler {
        this.naam = naam;
        koopPunten = 1;
        actiePunten = 1;
+       foldDeck = new Deck();
+       drawDeck = new Deck("startdeck");
+       
     }
     
         public String geefNaam()
