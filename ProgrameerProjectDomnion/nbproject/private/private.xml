@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+<<<<<<< HEAD
+=======
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/C:/Users/Vaio/Documents/GitHub/ProgrameerProjectDEMK/ProgrameerProjectDomnion/test/ProgrameerProjectDominion/TestDominion.java</file>
@@ -8,4 +10,5 @@
             <file>file:/C:/Users/Vaio/Documents/GitHub/ProgrameerProjectDEMK/ProgrameerProjectDomnion/test/ProgrameerProjectDominion/TestVooraad.java</file>
         </group>
     </open-files>
+>>>>>>> d06e180ee57b1f61a6556a933291f8a06f77d51f
 </project-private>
