@@ -9,19 +9,25 @@ and open the template in the editor.
 */
 body{
     background-image: url("../media/achtergrond.png");
-    width: auto;
-    
+    background-size: 100%;
+    background-repeat: no-repeat;
+    }
+
+.logo img{
+    padding-top: 250px;
+    margin-bottom: 90px;
+    width: 631px;
+    height: 200px;
 }
 
-.logo{
-    margin-top: 200px;
-    margin-left: 640px;
-    margin-bottom: 40px;
+#container{
+    text-align: center;
 }
 
-.registreren, .login,.guest{
-    margin-left: 1000px;
+.registreren img, .login img,.guest img{
     margin-bottom: 20px;
+    width: 258px;
+    height: 75px;
 }
 a{
     color: #ffffff;
@@ -29,8 +35,9 @@ a{
 }
 
 footer{
-   margin-top: 60px;
-   margin-left: 2350px;
-   margin-right: auto;
-   font-weight: bold; 
+   position: fixed;
+   font-weight: bold;
+   text-align: right;
+   bottom: 10px;
+   right: 10px;
 }
