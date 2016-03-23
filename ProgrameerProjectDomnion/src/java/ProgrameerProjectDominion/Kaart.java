@@ -11,4 +11,9 @@ package ProgrameerProjectDominion;
  */
 public class Kaart {
     
+    public Kaart ()
+    {
+        
+    }
+    
 }
