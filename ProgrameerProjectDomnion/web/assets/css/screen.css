@@ -7,27 +7,20 @@ and open the template in the editor.
     Created on : 22-mrt-2016, 14:03:26
     Author     : michield
 */
-body{
+.main{
     background-image: url("../media/achtergrond.png");
-    background-size: 100%;
-    background-repeat: no-repeat;
-    }
-
-.logo img{
-    padding-top: 250px;
-    margin-bottom: 90px;
-    width: 631px;
-    height: 200px;
+    padding-bottom: 64px;
 }
 
-#container{
-    text-align: center;
+.logo{
+    padding-top: 200px;
+    margin-left: 640px;
+    margin-bottom: 40px;
 }
 
-.registreren img, .login img,.guest img{
+.registreren, .login,.guest{
+    margin-left: 1000px;
     margin-bottom: 20px;
-    width: 258px;
-    height: 75px;
 }
 a{
     color: #ffffff;
@@ -35,9 +28,10 @@ a{
 }
 
 footer{
-   position: fixed;
+   margin-top: 60px;
+   margin-left: 2350px;
+   margin-right: auto;
    font-weight: bold;
-   text-align: right;
-   bottom: 10px;
-   right: 10px;
+   padding-bottom: 0px;
+       
 }
