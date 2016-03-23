@@ -11,7 +11,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
          <link rel="stylesheet" type="text/css" href="assets/css/reset.css"/>
         <link href="assets/css/screen.css" type="text/css" rel=stylesheet>
-        <title>DEMK</title>
+        <title>DEMK123</title>
     </head>
     <body>
         <div id="container">
